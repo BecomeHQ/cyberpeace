@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module",
     "start": "parcel app.js --hmr-port 50619"
   },
   "keywords": [],
@@ -13,5 +14,5 @@
   "dependencies": {
     "gsap": "^3.12.2",
     "parcel": "^2.9.3"
-  }
+  } 
 }
